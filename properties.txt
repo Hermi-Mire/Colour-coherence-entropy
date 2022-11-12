@@ -1,0 +1,4 @@
+.\cluster_image\
+64
+64
+35
